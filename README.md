@@ -1,4 +1,4 @@
-nspiration
+## Inspiration
 In the wake of the tragic shootings in schools, concerts, and other venues in recent months, the GunSafe team felt moved to act. At the very least, our goal was to lay the groundwork for further development of a cost-effective approach to enhancing the detection of firearms in real-time so that further tragedies such as in Orlando and Las Vegas can be prevented before they occur.
 
 ## What it does
